@@ -9,5 +9,11 @@ public class SingletonBookMain {
                 SingletonBook.getSingletonBookInstance();
             }).start();
         }
+
+        for (int i=0;i<5;i++){
+            new Thread(()-> {
+                SingletonBookTwo.getSingletonBookInstance();
+            }).start();
+        }
     }
 }

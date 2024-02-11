@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22882115-d2ba-499c-a51c-1a4229dd0b30" name="Changes" comment="thread added">
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/SingletonBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/pattern/SingletonBookMain.java" afterDir="false" />
+    <list default="true" id="22882115-d2ba-499c-a51c-1a4229dd0b30" name="Changes" comment="way 1">
+      <change afterPath="$PROJECT_DIR$/src/design/pattern/SingletonBookTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/pattern/SingletonBookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/pattern/SingletonBookMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="java_8.data" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="design.pattern" />
       <recent name="java_8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingletonBookMain">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CustomQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threads_demo.CustomQueue" />
       <module name="java_interview" />
@@ -113,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SingletonBookMain" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SingletonBookMain" />
         <item itemvalue="Application.CustomQueue" />
         <item itemvalue="Application.CustomStack" />
         <item itemvalue="Application.Thread_Demo" />
@@ -158,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705432124788</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="way 1">
+      <created>1707676975711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707676975711</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +184,7 @@
     <MESSAGE value="changes added" />
     <MESSAGE value="changes added for optional" />
     <MESSAGE value="thread added" />
-    <option name="LAST_COMMIT_MESSAGE" value="thread added" />
+    <MESSAGE value="way 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="way 1" />
   </component>
 </project>
